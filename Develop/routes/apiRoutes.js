@@ -21,14 +21,13 @@ router.get('/notes', (req, res) => {
 });
 // route to add a new note and add it to the json file
 router.post("/notes", async function (req, res) {
-  const currentNotes = await store.getNotes();
   let newNote = {
     id: uuidv4(),
     title: req.body.title,
     text: req.body.text,
   };
 
-  await store.addNote([...currentNotes, newNote]);
+  await store.addNote(newNote);
 
   return res.send(newNote);
 });
