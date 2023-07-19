@@ -1,5 +1,5 @@
 # Note-App
-This is a program that runs in the command line using Node.js. It creates a basic logo in the form of an SVG file. You can type in the desired text, pick colors for the text and shape, and select from various shapes like circles, triangles, or squares for the logo.
+The Note Taker is a convenient web application designed to help you write and store notes effortlessly. With its user-friendly and intuitive interface, it simplifies the process of organizing your ideas and managing your tasks effectively.
 
 ### Generated Logo
 
@@ -15,9 +15,13 @@ This is a program that runs in the command line using Node.js. It creates a basi
 
 ## Installation
 
-1. Clone the repository: `git clone` https://github.com/KevinBelknap/logo-maker.git
-2. Navigate to the project directory: `cd logo-maker`
-3. Install the dependencies: `npm install`
+To install and run the Note Taker application locally, follow these steps:
+
+1. Clone the repository to your local machine.  
+2. Open a terminal and navigate to the project's root directory.  
+3. Run npm install to install the required dependencies.  
+4. Start the application by running node server.js.  
+5.  Access the application in your web browser at http://localhost:3000.
 
 ## Usage
 
