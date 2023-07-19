@@ -3,13 +3,12 @@ The Note Taker is a convenient web application designed to help you write and st
 
 ### Generated Logo
 
-![KJB](https://github.com/KevinBelknap/logo-maker/assets/128446838/c7db6188-2d78-4a36-b059-5e3740effe31)
+![Note Taker](https://github.com/KevinBelknap/Note-App/assets/128446838/e34ea70f-fa72-41e9-aff9-61247b745a8c)
+
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -22,24 +21,6 @@ To install and run the Note Taker application locally, follow these steps:
 3. Run npm install to install the required dependencies.  
 4. Start the application by running node server.js.  
 5.  Access the application in your web browser at http://localhost:3000.
-
-## Usage
-
-To run the SVG Maker, execute the following command in the project directory:  
-
-`NPM Start`
-
-You will be prompted to enter the text for the logo, choose the text color, select the shape, and specify the shape color. Follow the on-screen instructions and provide the required input. I have attached a video as a example.
-
-
-https://github.com/KevinBelknap/logo-maker/assets/128446838/bb5bdeb8-4a9a-4838-82a8-1a6e73a34e23
-
-
-Once you have entered all the necessary information, an SVG file named `SVG.svg` will be generated in the project directory. You can open this file in a web browser to view your new logo!
-
-## Examples
-
-You can find example SVG files created with the SVG Logo Maker in the `image` folder of this repository.
 
 ## Contributing
 
